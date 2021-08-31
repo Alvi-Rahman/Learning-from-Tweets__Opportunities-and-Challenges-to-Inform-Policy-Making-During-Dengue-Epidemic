@@ -1,0 +1,107 @@
+Name	2019 Population 	Location
+Dhaka	10,356,500	Map
+Chittagong	3,920,222	Map
+Khulna	1,342,339	Map
+Rajshahi	700,133	Map
+Comilla	389,411	Map
+Shibganj	378,701	Map
+Natore	369,138	Map
+Rangpur	343,122	Map
+Tungi	337,579	Map
+Narsingdi	281,080	Map
+Bagerhat	266,388	Map
+Cox's Bazar	253,788	Map
+Jessore	243,987	Map
+Nagarpur	238,422	Map
+Sylhet	237,000	Map
+Mymensingh	225,126	Map
+Narayanganj	223,622	Map
+Bogra	210,000	Map
+Dinajpur	206,234	Map
+Barisal	202,242	Map
+Saidpur	199,422	Map
+Par Naogaon	192,464	Map
+Pabna	186,781	Map
+Paltan	184,492	Map
+Tangail	180,144	Map
+Jamalpur	167,900	Map
+Puthia	159,406	Map
+Nawabganj	142,361	Map
+Kushtia	135,724	Map
+Sonargaon	130,000	Map
+Satkhira	128,918	Map
+Sirajganj	127,481	Map
+Faridpur	112,187	Map
+Sherpur	107,419	Map
+Bhairab Bazar	105,457	Map
+Shahzadpur	102,420	Map
+Bhola	99,079	Map
+Azimpur	96,641	Map
+Kishorganj	90,690	Map
+Bibir Hat	89,030	Map
+Habiganj	88,760	Map
+Madaripur	84,789	Map
+Feni	84,028	Map
+Laksham	82,290	Map
+Ishurdi	81,995	Map
+Sarishabari	81,325	Map
+Netrakona	79,016	Map
+Joypur Hat	73,068	Map
+Thakurgaon	71,096	Map
+Palang	67,652	Map
+Lalmonirhat	65,127	Map
+Raipur	64,652	Map
+Tungipara	62,210	Map
+Lakshmipur	61,703	Map
+Maulavi Bazar	57,441	Map
+Joymontop	56,000	Map
+Ramganj	55,241	Map
+Narail	55,112	Map
+Pirojpur	54,418	Map
+Sandwip	52,152	Map
+Satkania	52,005	Map
+Patiya	51,360	Map
+Khagrachhari	50,364	Map
+Chilmari	49,736	Map
+Nageswari	49,425	Map
+Panchagarh	48,531	Map
+Uttar Char Fasson	48,305	Map
+Parbatipur	48,020	Map
+Burhanuddin	45,670	Map
+Kaliganj	45,631	Map
+Dohar	45,543	Map
+Hajiganj	44,343	Map
+Bhatpara Abhaynagar	42,653	Map
+Lalmohan	42,220	Map
+Jhingergacha	41,957	Map
+Mirzapur	41,137	Map
+Sakhipur	40,869	Map
+Teknaf	40,557	Map
+Gaurnadi	40,519	Map
+Kalia	40,492	Map
+Bera	39,604	Map
+Mehendiganj	39,424	Map
+Chhagalnaiya	39,335	Map
+Chhatak	39,218	Map
+Nalchiti	38,703	Map
+Bheramara	38,159	Map
+Phultala	37,985	Map
+Baniachang	37,807	Map
+Sarankhola	36,470	Map
+Shibganj	35,961	Map
+Pirgaaj	34,606	Map
+Bajitpur	34,560	Map
+Char Bhadrasan	34,423	Map
+Gafargaon	34,177	Map
+Badarganj	32,600	Map
+Bandarban	32,523	Map
+Nabinagar	31,671	Map
+Morrelgonj	31,647	Map
+Kesabpur	30,926	Map
+Bhandaria	30,219	Map
+Mathba	29,760	Map
+Raojan	25,708	Map
+Manikchari	24,813	Map
+Muktagacha	24,684	Map
+Parvez Ali Family	6,000	Map
+Parvez Ali Hossain	6,000	Map
